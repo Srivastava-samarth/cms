@@ -1,1 +1,1 @@
-# This project is on going
+# Content Management System Using Golang and React
